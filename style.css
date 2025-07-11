@@ -119,7 +119,7 @@ nav {
 
 .action-text-header {
   font-family: "Raleway", sans-serif;
-  font-size: 35px;
+  font-size: 50px;
   font-weight: bold;
   color: rgba(37, 36, 50, 1);
 
@@ -190,6 +190,54 @@ nav {
   color: rgba(0, 0, 0, 0.5);
 }
 
+/* Focus Section */
+
+.focus{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  background-color: white;
+  border-radius: 15px;
+  padding: 70px 0;
+}
+
+.focus-title{
+    font-family: "Raleway" , sans-serif;
+  font-size: 50px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.focus-text {
+    font-family: "Inter" , sans-serif;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.focus-button {
+  color: white;
+  font-family: "Raleway", sans-serif;
+  background-color: #4E47FF;
+  font-size: 16px;
+  font-weight: 600;
+  height: 48px;
+  width: 195px;
+  border: none;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+
+.focus-button:hover {
+  background-color: coral;
+}
+
+.focus-image {
+  border-radius: 50px;
+  margin-top: 20px;
+}
+
+
 /* get in touch section */
 
 
@@ -199,7 +247,7 @@ nav {
   align-content: center;
   align-items: center;
   gap: 100px;
-  margin-bottom: 70px;
+  margin: 140px 0;
 }
 
 .contact-title {
