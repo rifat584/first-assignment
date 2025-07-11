@@ -11,8 +11,7 @@
 }
 /* Hero BG */
 .header {
-  /* background-image: url('/Assets/Hero-bg.png') ; */
-  background-image:url('/Assets/avatar.png');
+  background-image: url('https://github.com/rifat584/first-assignment/blob/main/Assets/Hero-bg.png?raw=true');
   height: 652px;
 }
 
