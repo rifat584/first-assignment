@@ -10,8 +10,9 @@
 
 }
 /* Hero BG */
-header {
-  background-image: url('../Assets/Hero-bg.png') ;
+.header {
+  /* background-image: url('/Assets/Hero-bg.png') ; */
+  background-image:url('/Assets/avatar.png');
   height: 652px;
 }
 
